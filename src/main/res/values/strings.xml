@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiverApp</string>
+    <string name="nuevo_fragment">Un nuevo fragment se ha creado.</string>
+    <string name="linedprice"><strike>$ %1$d</strike> </string>
+    <string name="price">$ %1$d</string>
+    <string name="no_resultados">No se encontraron resultados.</string>
+    <string name="error_generarlista">Error al generar lista</string>
+</resources>
